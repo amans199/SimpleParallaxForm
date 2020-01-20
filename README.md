@@ -1,5 +1,5 @@
-# Project Title
-a simple Parallax Registeration Form.
+# Parallax Registeration Form.
+just a simple Parallax Registeration Form.
 
 
 
